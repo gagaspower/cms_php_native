@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://labz1.yatoreh.com/sitemap.xml

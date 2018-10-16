@@ -1,0 +1,19 @@
+<?xml version="1.0"?> 
+<rss version="2.0"> 
+<channel> 
+<title>Ruangpojok Feed</title> 
+<link>$i[url_website]</link> 
+<description>Feed Description</description> 
+<language>en-us</language><item>
+                 <title>Iklan Header 600x80px</title>
+                 <link>http://labz1.yatoreh.com/blog/detail/iklan-header-600x80px/</link>
+                 <description></description>
+                 </item><item>
+                 <title>Yang menjadi pemasalahan untuk</title>
+                 <link>http://labz1.yatoreh.com/blog/detail/yang-menjadi-pemasalahan-untuk/</link>
+                 <description>sdf asdf asd</description>
+                 </item><item>
+                 <title>React Native adalah salah satu framework</title>
+                 <link>http://labz1.yatoreh.com/blog/detail/react-native-adalah-salah-satu-framework/</link>
+                 <description>React Native adalah salah satu framework</description>
+                 </item></channel></rss>
